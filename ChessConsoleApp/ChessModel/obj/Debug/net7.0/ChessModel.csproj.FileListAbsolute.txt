@@ -1,0 +1,15 @@
+D:\ASP.NET\My Repos\asignment-3\ChessConsoleApp\ChessModel\obj\Debug\net7.0\ChessModel.csproj.AssemblyReference.cache
+D:\ASP.NET\My Repos\asignment-3\ChessConsoleApp\ChessModel\obj\Debug\net7.0\ChessModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\My Repos\asignment-3\ChessConsoleApp\ChessModel\obj\Debug\net7.0\ChessModel.AssemblyInfoInputs.cache
+D:\ASP.NET\My Repos\asignment-3\ChessConsoleApp\ChessModel\obj\Debug\net7.0\ChessModel.AssemblyInfo.cs
+D:\ASP.NET\My Repos\asignment-3\ChessConsoleApp\ChessModel\obj\Debug\net7.0\ChessModel.csproj.CoreCompileInputs.cache
+D:\ASP.NET\My Repos\asignment-3\ChessConsoleApp\ChessModel\bin\Debug\net7.0\ChessModel.exe
+D:\ASP.NET\My Repos\asignment-3\ChessConsoleApp\ChessModel\bin\Debug\net7.0\ChessModel.deps.json
+D:\ASP.NET\My Repos\asignment-3\ChessConsoleApp\ChessModel\bin\Debug\net7.0\ChessModel.runtimeconfig.json
+D:\ASP.NET\My Repos\asignment-3\ChessConsoleApp\ChessModel\bin\Debug\net7.0\ChessModel.dll
+D:\ASP.NET\My Repos\asignment-3\ChessConsoleApp\ChessModel\bin\Debug\net7.0\ChessModel.pdb
+D:\ASP.NET\My Repos\asignment-3\ChessConsoleApp\ChessModel\obj\Debug\net7.0\ChessModel.dll
+D:\ASP.NET\My Repos\asignment-3\ChessConsoleApp\ChessModel\obj\Debug\net7.0\refint\ChessModel.dll
+D:\ASP.NET\My Repos\asignment-3\ChessConsoleApp\ChessModel\obj\Debug\net7.0\ChessModel.pdb
+D:\ASP.NET\My Repos\asignment-3\ChessConsoleApp\ChessModel\obj\Debug\net7.0\ChessModel.genruntimeconfig.cache
+D:\ASP.NET\My Repos\asignment-3\ChessConsoleApp\ChessModel\obj\Debug\net7.0\ref\ChessModel.dll
